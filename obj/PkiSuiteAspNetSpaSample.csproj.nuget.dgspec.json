@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\PkiSuiteAspNetSpaSample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\PkiSuiteAspNetSpaSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\PkiSuiteAspNetSpaSample.csproj",
+        "projectName": "PkiSuiteAspNetSpaSample",
+        "projectPath": "C:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\PkiSuiteAspNetSpaSample.csproj",
+        "packagesPath": "C:\\Users\\ricardo-favaro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ricardo-favaro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Lacuna.Pki": {
+              "target": "Package",
+              "version": "[2.8.12, )"
+            },
+            "Lacuna.Pki.BrazilTrustServices": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Lacuna.RestPki.Api": {
+              "target": "Package",
+              "version": "[1.28.0, )"
+            },
+            "Lacuna.RestPki.Client": {
+              "target": "Package",
+              "version": "[1.24.0, )"
+            },
+            "Lacuna.RestPkiCore.Api": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Lacuna.RestPkiCore.Client": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

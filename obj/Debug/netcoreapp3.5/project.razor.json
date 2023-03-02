@@ -1,0 +1,51 @@
+{
+  "SerializedFilePath": "c:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\obj\\Debug\\netcoreapp3.5\\project.razor.json",
+  "FilePath": "c:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\PkiSuiteAspNetSpaSample.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "PkiSuiteAspNetSpaSample",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ricardo-favaro\\projetos\\dotnet\\PkiSuiteSamples\\dotnet\\spa\\PkiSuiteAspNetSpaSample\\Views\\Home\\RestPkiTokenNotSet.cshtml",
+      "TargetPath": "Views\\Home\\RestPkiTokenNotSet.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
